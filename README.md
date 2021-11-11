@@ -3,14 +3,7 @@ TEST ASSIGNMENT BY Doruk Taskin.
 
 Assignment is performed using:
 
-Windows
-Android Studio
-Espresso 
-Kotlin
-J Unit
-Git
-API level 28 android version 9 emulator
-
+Windows OS,Android Studio,Espresso,Kotlin,JUnit,Git,API level 28 android version 9 emulator.
 
 For this assignment I have created the runner class Maintest to run the passing tests. These tests can be run individualy or a a group by running the tests from class MainTest.
 This class uses some other functions and is extended by the class BaseTest and imports some helper classes like MainHelper and Utilities classes.
