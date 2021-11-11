@@ -21,11 +21,13 @@ The tests can be run under Test Folder as stated and the negative cases can be r
 
 TEST RESULTS
 
+After running the tests you can export the test results by clicking on 'Export Test Results' button that is circled in red.
+This will automatically export the test result to the Test Results folder that I have created.
+
 ![image](https://user-images.githubusercontent.com/32645994/141361392-680906a5-953b-4886-8388-d70478184a02.png)
 
 
-After running the tests you can export the test results by clicking on 'Export Test Results' button that is circled in red.
-This will automatically export the test result to the Test Results folder that I have created.
+
 
 An example of a test result can be found here, I have run the Negative Cases test and exported the logs:
 
