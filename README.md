@@ -1,6 +1,6 @@
 TEST ASSIGNMENT BY Doruk Taskin.
 
-PROJECT STRUCTURE 
+<b> PROJECT STRUCTURE <b>
 
 Assignment is performed using:
 
