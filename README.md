@@ -10,6 +10,8 @@ The tests are run with API level28 and android version 9 and first build the app
 
 TEST RESULTS
 
+![image](https://user-images.githubusercontent.com/32645994/141361392-680906a5-953b-4886-8388-d70478184a02.png)
+
 
 After running the tests you can export the test results by clicking on 'Export Test Results' button that is circled in red.
 This will automatically export the test result to the Test Results folder that I have created.
