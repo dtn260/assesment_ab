@@ -1,6 +1,6 @@
-TEST ASSIGNMENT BY Doruk Taskin.
+<b>TEST ASSIGNMENT BY Doruk Taskin.
 
-<b> PROJECT STRUCTURE <b>
+   PROJECT STRUCTURE </b>
 
 Assignment is performed using:
 
@@ -23,7 +23,7 @@ The tests can be run under Test Folder as stated and the negative cases can be r
 
 
 
-TEST RESULTS
+<b> TEST RESULTS </b>
 
 After running the tests you can export the test results by clicking on 'Export Test Results' button that is circled in red.
 This will automatically export the test result to the Test Results folder that I have created.
