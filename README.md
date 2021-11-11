@@ -2,6 +2,10 @@ TEST ASSIGNMENT BY Doruk Taskin.
 
 PROJECT STRUCTURE 
 
+Assignment is performed using:
+
+Windows OS,Android Studio,Espresso,Kotlin,JUnit,Git,API level 28 android version 9 emulator.
+
 The tests are run with API level28 and android version 9 and first build the app by adding the configuration.
 
 For this assignment I have created the runner class Maintest and NegativeCasesTest to run the tests. These tests can be run individualy or a a group by running the tests from class MainTest or NegativeCasesTest respectively.
